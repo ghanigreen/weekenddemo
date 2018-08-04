@@ -1,3 +1,0 @@
-# weekenddemo
-created index.html
-
